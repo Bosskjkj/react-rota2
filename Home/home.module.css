@@ -1,0 +1,9 @@
+.page{
+    animation: fadeIn 0.5s;
+    padding: 2rem;
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
